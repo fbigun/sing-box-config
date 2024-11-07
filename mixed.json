@@ -93,8 +93,8 @@
       { "rule_set": ["geoip-netflix", "geosite-netflix"], "outbound": "🎥 Netflix" },
       { "rule_set": ["geoip-apple", "geosite-apple"], "outbound": "🍎 Apple" },
       { "rule_set": "geosite-microsoft", "outbound": "🪟 Microsoft" },      
-      { "rule_set": "geosite-geolocation-!cn", "outbound": "🚀 节点选择" },
       { "rule_set": ["geoip-cloudflare", "geosite-cloudflare"], "outbound": "☁️ cloudflare" },
+      { "rule_set": "geosite-geolocation-!cn", "outbound": "🚀 节点选择" },
       { "rule_set": ["geoip-cn", "geosite-cn"], "outbound": "🎯 全球直连" }
     ],
     
